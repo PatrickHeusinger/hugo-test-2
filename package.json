@@ -1,0 +1,25 @@
+{
+  "name": "hugo-bootstrap",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickHeusinger/hugo-test-2.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickHeusinger/hugo-test-2/issues"
+  },
+  "homepage": "https://github.com/PatrickHeusinger/hugo-test-2#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
